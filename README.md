@@ -4,7 +4,7 @@
 **License**: MIT  
 
 ## Description
-Forensic tool to extract and log file contents, styled for NSFW evidence recovery.
+Forensic tool to extract and log file contents, styled for evidence recovery.
 
 ## Features
 - Recursive directory scanning
